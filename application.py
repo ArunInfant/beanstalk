@@ -69,8 +69,8 @@ welcome = """
         <p>Email: arun17@gmail.com</p>
         <p>Phone: 9360216106</p>
         <p>Location: Dindigul, India</p>
-        <p>LinkedIn: <a href="https://www.linkedin.com/in/jenish-revaldo-c-004670245">linkedin.com/in/jenish-revaldo-c-004670245</a></p>
-        <p>GitHub: <a href="https://github.com/JenishRevaldo">github.com/JenishRevaldo</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/arun-infant-a-004670245">linkedin.com/in/jenish-revaldo-c-004670245</a></p>
+        <p>GitHub: <a href="https://github.com/ArunInfant">github.com/JenishRevaldo</a></p>
     </div>
 
     <div class="education">
